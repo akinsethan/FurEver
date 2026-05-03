@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/furever-app",
+  "homepage": "https://akinsethan.github.io/furever-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
